@@ -4440,3 +4440,5 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+
+- Helpful cheat-sheet link (@ex1234)
