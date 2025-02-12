@@ -684,6 +684,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://swisscows.com/"><b>Swisscows</b></a> - privacy safe web search<br>
 &nbsp;&nbsp; <a href="https://search.disconnect.me/"><b>Disconnect</b></a> - the search engine that anonymizes your searches.<br>
 &nbsp;&nbsp; <a href="https://metager.org/"><b>MetaGer</b></a> - the search engine that uses anonymous proxy and hidden Tor branches.<br>
+&nbsp;&nbsp; <a href="https://kagi.com/"><b>Kagi</b></a> - a premium private search engine with best-in-class results and a clear business model: a paid subscription.<br>
 </p>
 
 ##### :black_small_square: Secure Webmail Providers
