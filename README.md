@@ -543,18 +543,21 @@ Only main chapters:
 ##### :black_small_square: Net-tools
 
 <p>
+&nbsp;&nbsp; <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
 &nbsp;&nbsp; <a href="https://toolbar.netcraft.com/site_report"><b>Netcraft</b></a> - detailed report about the site, helping you to make informed choices about their integrity.<b>*</b><br>
+&nbsp;&nbsp; <a href="https://extendsclass.com/"><b>Online Tools for Developers</b></a> - HTTP API tools, testers, encoders, converters, formatters, and other tools.<br>
 &nbsp;&nbsp; <a href="https://atlas.ripe.net/"><b>RIPE NCC Atlas</b></a> - a global, open, distributed Internet measurement platform.<br>
 &nbsp;&nbsp; <a href="https://www.robtex.com/"><b>Robtex</b></a> - uses various sources to gather public information about IP numbers, domain names, host names, etc.<br>
 &nbsp;&nbsp; <a href="https://securitytrails.com/"><b>Security Trails</b></a> - APIs for Security Companies, Researchers and Teams.<br>
-&nbsp;&nbsp; <a href="https://tools.keycdn.com/curl"><b>Online Curl</b></a> - curl test, analyze HTTP Response Headers.<br>
-&nbsp;&nbsp; <a href="https://extendsclass.com/"><b>Online Tools for Developers</b></a> - HTTP API tools, testers, encoders, converters, formatters, and other tools.<br>
+&nbsp;&nbsp; <a href="https://nikto.online/"><b>Nikto Online</b></a> - online Vulnerability Scanner.<br>
 &nbsp;&nbsp; <a href="https://ping.eu/"><b>Ping.eu</b></a> - online Ping, Traceroute, DNS lookup, WHOIS and others.<br>
+&nbsp;&nbsp; <a href="https://portscanner.online/"><b>PortScanner.Online</b></a> - scan and Detect Open Ports Online.<br>
 &nbsp;&nbsp; <a href="https://network-tools.com/"><b>Network-Tools</b></a> - network tools for webmasters, IT technicians & geeks.<br>
 &nbsp;&nbsp; <a href="https://bgpview.io/"><b>BGPview</b></a> - search for any ASN, IP, Prefix or Resource name.<br>
 &nbsp;&nbsp; <a href="https://isbgpsafeyet.com/"><b>Is BGP safe yet?</b></a> - check BGP (RPKI) security of ISPs and other major Internet players.<br>
 &nbsp;&nbsp; <a href="https://riseup.net/"><b>Riseup</b></a> - provides online communication tools for people and groups working on liberatory social change.<br>
 &nbsp;&nbsp; <a href="https://www.virustotal.com/gui/home/upload"><b>VirusTotal</b></a> - analyze suspicious files and URLs to detect types of malware.<br>
+&nbsp;&nbsp; <a href="https://wpscan.online/"><b>WPScan Online</b></a> - online WordPress vulnerability Scanner.<br>
 </p>
 
 ##### :black_small_square: Privacy
@@ -671,6 +674,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://www.immuniweb.com/mobile/"><b>ImmuniWeb® Mobile App Scanner</b></a> - test security and privacy of mobile apps (iOS & Android).<br>
 &nbsp;&nbsp; <a href="https://vulnerabilitytest.quixxi.com/"><b>Quixxi</b></a> - free Mobile App Vulnerability Scanner for Android & iOS.<br>
 &nbsp;&nbsp; <a href="https://www.ostorlab.co/scan/mobile/"><b>Ostorlab</b></a> - analyzes mobile application to identify vulnerabilities and potential weaknesses.<br>
+&nbsp;&nbsp; <a href="https://sast.online/"><b>sast.online</b></a> - examine the Android Source code to identify any security issues or vulnerabilities..<br>
 </p>
 
 ##### :black_small_square: Private Search Engines
