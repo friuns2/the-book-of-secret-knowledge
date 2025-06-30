@@ -827,7 +827,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/jamesward/kubernetes-the-easy-way"><b>kubernetes-the-easy-way</b></a> - bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.<br>
 &nbsp;&nbsp; <a href="https://github.com/dennyzhang/cheatsheet-kubernetes-A4"><b>cheatsheet-kubernetes-A4</b></a> - Kubernetes CheatSheets in A4.<br>
 &nbsp;&nbsp; <a href="https://github.com/kabachook/k8s-security"><b>k8s-security</b></a> - kubernetes security notes and best practices.<br>
-&nbsp;&nbsp; <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
+&nbsp;&nbsp; <a href="https://learnkube.com/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
 &nbsp;&nbsp; <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br>
 &nbsp;&nbsp; <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
 </p>
