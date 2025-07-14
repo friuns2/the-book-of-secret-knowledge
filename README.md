@@ -319,6 +319,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://pcp.io/index.html"><b>Performance Co-Pilot</b></a> - a system performance analysis toolkit.<br>
 &nbsp;&nbsp; <a href="https://github.com/sharkdp/hexyl"><b>hexyl</b></a> - a command-line hex viewer.<br>
 &nbsp;&nbsp; <a href="https://github.com/p403n1x87/austin"><b>Austin</b></a> - Python frame stack sampler for CPython.<br>
+&nbsp;&nbsp; <a href="https://www.jam-software.com/treesize_free"><b>Treesize Free</b></a> - Quickly Scan Directory Sizes and Find Space Hogs.<br>
 </p>
 
 ##### :black_small_square: Log Analyzers
