@@ -364,6 +364,12 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br>
 </p>
 
+##### :black_small_square: Mindfulness
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/e6a5/zenta"><b>zenta</b></a> - a minimal CLI tool to pause, breathe, and protect your attention. <br>
+</p>
+
 ##### :black_small_square: Other
 
 <p>
