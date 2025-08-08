@@ -203,6 +203,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
 &nbsp;&nbsp; <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br>
 &nbsp;&nbsp; <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
+&nbsp;&nbsp; <a href="https://log.dog"><b>LogDog</b></a> - LogDog is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs, requests and events in real-time and allows to intercept them.<br>
 </p>
 
 ##### :black_small_square: Network (DNS)
