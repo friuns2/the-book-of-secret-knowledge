@@ -967,6 +967,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://cheat.sh/"><b>cheat.sh</b></a> - the only cheat sheet you need.<br>
 &nbsp;&nbsp; <a href="https://gnulinux.guru/"><b>gnulinux.guru</b></a> - collection of cheat sheets about bash, vim and networking.<br>
 &nbsp;&nbsp; <a href="https://andreasbm.github.io/web-skills/"><b>Web Skills</b></a> - visual overview of useful skills to learn as a web developer.<br>
+&nbsp;&nbsp; <a href="https://learnxinyminutes.com/"><b>Learn X in Y minutes</b></a> - take a whirlwind tour of your next favorite language<br>
 </p>
 
 ##### :black_small_square: Ebooks
