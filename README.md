@@ -161,6 +161,7 @@ Only main chapters:
 <p>
 &nbsp;&nbsp; <a href="https://github.com/sharkdp/fd"><b>fd</b></a> - is a simple, fast and user-friendly alternative to find.<br>
 &nbsp;&nbsp; <a href="https://dev.yorhel.nl/ncdu"><b>ncdu</b></a> - is an easy to use, fast disk usage analyzer.<br>
+&nbsp;&nbsp; <a href="https://github.com/soldatov-ss/thanos"><b>thanos</b></a> - is a tool that “snaps” a directory by deleting half of its files.
 </p>
 
 ##### :black_small_square: Network
