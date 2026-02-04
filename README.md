@@ -1484,6 +1484,7 @@ AWS deployment tool.<br>
 
 <p>
 &nbsp;&nbsp; <a href="https://feedly.com/"><b>Feedly</b></a> - organize, read and share what matters to you.<br>
+&nbsp;&nbsp; <a href="https://feeder.co/?site=wow"><b>Feeder.co</b></a> - Lightweight RSS Feed manager.<br>
 &nbsp;&nbsp; <a href="https://www.inoreader.com/"><b>Inoreader</b></a> - similar to feedly with a support for filtering what you fetch from rss.<br>
 </p>
 
