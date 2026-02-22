@@ -483,6 +483,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://securitytxt.org/"><b>security.txt</b></a> - a proposed standard (generator) which allows websites to define security policies.<br>
 &nbsp;&nbsp; <a href="https://github.com/mozilla/ssl-config-generator"><b>ssl-config-generator</b></a> - help you follow the Mozilla Server Side TLS configuration guidelines.<br>
 &nbsp;&nbsp; <a href="https://github.com/mjol/TLScan"><b>TLScan</b></a> - pure python, SSL/TLS protocol and cipher scanner/enumerator.<br>
+&nbsp;&nbsp; <a href="https://github.com/brancogao/ssl-certificate-monitor"><b>SSL Certificate Monitor</b></a> - open-source SSL/TLS certificate expiry monitoring tool.<br>
 </p>
 
 ##### :black_small_square: HTTP Headers & Web Linters
@@ -514,6 +515,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://nip.io/"><b>nip.io</b></a> - dead simple wildcard DNS for any IP Address.<br>
 &nbsp;&nbsp; <a href="https://ceipam.eu/en/dnslookup.php"><b>dnslookup (ceipam)</b></a> - one of the best DNS propagation checker (and not only).<br>
 &nbsp;&nbsp; <a href="https://whatsmydns.com"><b>What's My DNS</b></a> - DNS propagation checking tool.<br>
+&nbsp;&nbsp; <a href="https://github.com/brancogao/dns-propagation-checker"><b>DNS Propagation Checker</b></a> - open-source DNS propagation checking tool with global coverage.<br>
 &nbsp;&nbsp; <a href="https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/"><b>DNSGrep</b></a> - quickly searching large DNS datasets.<br>
 </p>
 
