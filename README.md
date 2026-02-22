@@ -781,12 +781,13 @@ performance of any of your sites from across the globe.<br>
 ##### 🛃 Security/hardening
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://twitter.com/EmeraldOnion"><b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a> - the Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/stamparm/maltrail"><b>maltrail</b></a> - malicious traffic detection system.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/Netflix/security_monkey"><b>security_monkey</b></a> - monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/firecracker-microvm/firecracker"><b>firecracker</b></a> - secure and fast microVMs for serverless computing.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://twitter.com/EmeraldOnion"><b>Emerald Onion</b></a> - is a 501(c)(3) nonprofit organization and transit internet service provider (ISP).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/pi-hole/pi-hole"><b>pi-hole</b></a> - the Pi-hole® is a DNS sinkhole that protects your devices from unwanted content.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/stamparm/maltrail"><b>maltrail</b></a> - malicious traffic detection system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Netflix/security_monkey"><b>security_monkey</b></a> - monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/firecracker-microvm/firecracker"><b>firecracker</b></a> - secure and fast microVMs for serverless computing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/StreisandEffect/streisand"><b>streisand</b></a> - sets up a new server running your choice of WireGuard, OpenSSH, OpenVPN, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.firezone.dev/"><b>Firezone</b></a> - open-source VPN server for Linux. Supports WireGuard, SSO, MFA, and access-rules.<br>
 </p>
 
 #### Networks &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
