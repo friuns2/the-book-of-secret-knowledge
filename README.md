@@ -179,43 +179,42 @@ Only main chapters:
 ##### 🖧 Network
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
-&nbsp;&nbsp;🔸 <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br>
-&nbsp;&nbsp;🔸 <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br>
-&nbsp;&nbsp;🔸 <a href="https://nmap.org/"><b>nmap</b></a> - is a free and open source (license) utility for network discovery and security auditing.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/zmap/zmap"><b>zmap</b></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
-&nbsp;&nbsp;🔸 <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
-&nbsp;&nbsp;🔸 <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
-&nbsp;&nbsp;🔸 <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
-&nbsp;&nbsp;🔸 <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
-&nbsp;&nbsp;🔸 <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
-&nbsp;&nbsp;🔸 <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
-&nbsp;&nbsp;🔸 <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/mechpen/sockdump"><b>sockdump</b></a> - dump unix domain socket traffic.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
-&nbsp;&nbsp;🔸 <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
-&nbsp;&nbsp;🔸 <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/jwbensley/Etherate"><b>Etherate</b></a> - is a Linux CLI based Ethernet and MPLS traffic testing tool.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/mpolden/echoip"><b>echoip</b></a> - is a IP address lookup service.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
-&nbsp;&nbsp;🔸 <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
-&nbsp;&nbsp;🔸 <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br>
-&nbsp;&nbsp;🔸 <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://nmap.org/"><b>nmap</b></a> - is a free and open source (license) utility for network discovery and security auditing.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/zmap/zmap"><b>zmap</b></a> - is a fast single packet network scanner designed for Internet-wide network surveys.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RustScan/RustScan"><b>Rust Scan</b></a> - to find all open ports faster than Nmap.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/robertdavidgraham/masscan"><b>masscan</b></a> - is the fastest Internet port scanner, spews SYN packets asynchronously.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/gvb84/pbscan"><b>pbscan</b></a> - is a faster and more efficient stateless SYN scanner and banner grabber.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.hping.org/"><b>hping</b></a> - is a command-line oriented TCP/IP packet assembler/analyzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/traviscross/mtr"><b>mtr</b></a> - is a tool that combines the functionality of the 'traceroute' and 'ping' programs in a single tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mehrdadrad/mylg"><b>mylg</b></a> - utility which combines the functions of the different network probes in one diagnostic tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://netcat.sourceforge.net/"><b>netcat</b></a> - utility which reads and writes data across network connections, using the TCP/IP protocol.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.dest-unreach.org/socat/"><b>socat</b></a> - utility which transfers data between two objects.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tcpdump.org/"><b>tcpdump</b></a> - is a powerful command-line packet analyzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/docs/man-pages/tshark.html"><b>tshark</b></a> - is a tool that allows us to dump and analyze network traffic (wireshark cli).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://termshark.io/"><b>Termshark</b></a> - is a simple terminal user-interface for tshark.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jpr5/ngrep"><b>ngrep</b></a> - is like GNU grep applied to the network layer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://netsniff-ng.org/"><b>netsniff-ng</b></a> - is a Swiss army knife for your daily Linux network plumbing if you will.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mechpen/sockdump"><b>sockdump</b></a> - dump unix domain socket traffic.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/stenographer"><b>stenographer</b></a> - is a packet capture solution which aims to quickly spool all packets to disk.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/sachaos/tcpterm"><b>tcpterm</b></a> - visualize packets in TUI.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tgraf/bmon"><b>bmon</b></a> - is a monitoring and debugging tool to capture networking related statistics and prepare them visually.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://iptraf.seul.org/2.6/manual.html#installation"><b>iptraf-ng</b></a> - is a console-based network monitoring program for Linux that displays information about IP traffic.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/vergoh/vnstat"><b>vnstat</b></a> - is a network traffic monitor for Linux and BSD.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://iperf.fr/"><b>iPerf3</b></a> - is a tool for active measurements of the maximum achievable bandwidth on IP networks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Microsoft/Ethr"><b>ethr</b></a> - is a Network Performance Measurement Tool for TCP, UDP & HTTP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jwbensley/Etherate"><b>Etherate</b></a> - is a Linux CLI based Ethernet and MPLS traffic testing tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mpolden/echoip"><b>echoip</b></a> - is a IP address lookup service.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/troglobit/nemesis"><b>Nemesis</b></a> - packet manipulation CLI tool; craft and inject packets of several protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/packetfu/packetfu"><b>packetfu</b></a> - a mid-level packet manipulation library for Ruby.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://scapy.net/"><b>Scapy</b></a> - packet manipulation library; forge, send, decode, capture packets of a wide number of protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/SecureAuthCorp/impacket"><b>impacket</b></a> - is a collection of Python classes for working with network protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://aria2.github.io/"><b>aria2</b></a> - is a lightweight multi-protocol & multi-source command-line download utility.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/x-way/iptables-tracer"><b>iptables-tracer</b></a> - observe the path of packets through the iptables chains.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/proabiral/inception"><b>inception</b></a> - a highly configurable tool to check for whatever you like against any number of hosts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mremoteng.org/"><b>mRemoteNG</b></a> - a fork of mRemote, multi-tabbed PuTTy on steroids!<br>
 </p>
 
 ##### 🖧 Network (DNS)
@@ -267,23 +266,31 @@ Only main chapters:
 &nbsp;&nbsp;🔸 <a href="https://hurl.dev"><b>Hurl</b></a> - is a command line tool to run and test HTTP requests with plain text.<br>
 </p>
 
-##### 🔐 SSL
+##### :black_small_square: SSH
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/coroner/cryptolyzer"><b>CryptoLyzer</b></a> - Fast and flexible server cryptographic (TLS/SSL/SSH/HTTP) settings analyzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/arthepsy/ssh-audit"><b>ssh-audit</b></a> - is a tool for SSH server auditing.<br>
+</p>
+
+##### :black_small_square: SSL
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://www.openssl.org/"><b>openssl</b></a> - is a robust, commercial-grade, and full-featured toolkit for the TLS and SSL protocols.<br>
 &nbsp;&nbsp;🔸 <a href="https://gnutls.org/manual/html_node/gnutls_002dcli-Invocation.html"><b>gnutls-cli</b></a> - client program to set up a TLS connection to some other computer.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/nabla-c0d3/sslyze"><b>sslyze
 </b></a> - fast and powerful SSL/TLS server scanning library.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
-&nbsp;&nbsp;🔸 <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/yassineaboukir/sublert"><b>Sublert</b></a> - is a security and reconnaissance tool to automatically monitor new subdomains.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/trimstray/mkchain"><b>mkchain</b></a> - open source tool to help you build a valid SSL certificate chain.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rbsec/sslscan"><b>sslscan</b></a> - tests SSL/TLS enabled services to discover supported cipher suites.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drwetter/testssl.sh"><b>testssl.sh</b></a> - testing TLS/SSL encryption anywhere on any port.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mozilla/cipherscan"><b>cipherscan</b></a> - a very simple way to find out which SSL ciphersuites are supported by a target.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/coroner/cryptolyzer"><b>CryptoLyzer</b></a> - Fast and flexible server cryptographic (TLS/SSL/SSH/HTTP) settings analyzer.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.tarsnap.com/spiped.html"><b>spiped</b></a> - is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/certbot/certbot"><b>Certbot</b></a> - is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/FiloSottile/mkcert"><b>mkcert</b></a> - simple zero-config tool to make locally trusted development certificates with any names you'd like.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/square/certstrap"><b>certstrap</b></a> - tools to bootstrap CAs, certificate requests, and signed certificates.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yassineaboukir/sublert"><b>Sublert</b></a> - is a security and reconnaissance tool to automatically monitor new subdomains.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/mkchain"><b>mkchain</b></a> - open source tool to help you build a valid SSL certificate chain.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Matty9191/ssl-cert-check"><b>ssl-cert-check</b></a> - SSL Certification Expiration Checker.<br>
 </p>
 
 ##### 🔒 Security
@@ -501,9 +508,10 @@ Only main chapters:
 ##### ▪️ HTTP Headers & Web Linters
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
-&nbsp;&nbsp;🔸 <a href="https://observatory.mozilla.org/"><b>Observatory by Mozilla</b></a> - set of tools to analyze your website.<br>
-&nbsp;&nbsp;🔸 <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://securityheaders.com/"><b>Security Headers</b></a> - analyse the HTTP response headers (with rating system to the results).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://observatory.mozilla.org/"><b>Observatory by Mozilla</b></a> - set of tools to analyze your website.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://webhint.io/"><b>webhint</b></a> - is a linting tool that will help you with your site's accessibility, speed, security, and more.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gitlab.com/coroner/cryptolyzer"><b>CryptoLyzer</b></a> - Fast and flexible server cryptographic (TLS/SSL/SSH/HTTP) settings analyzer.<br>
 </p>
 
 ##### ▪️ DNS
@@ -1704,6 +1712,7 @@ text ⬅️ encoded
   * [du](#tool-du)
   * [inotifywait](#tool-inotifywait)
   * [openssl](#tool-openssl)
+  * [cryptolyzer](#tool-cryptolyzer)
   * [secure-delete](#tool-secure-delete)
   * [dd](#tool-dd)
   * [gpg](#tool-gpg)
@@ -2973,6 +2982,28 @@ openssl x509 -noout -modulus -in certificate.crt | openssl md5) | uniq
 ```bash
 (openssl rsa -noout -modulus -in private.key | openssl md5 ; \
 openssl req -noout -modulus -in request.csr | openssl md5) | uniq
+```
+
+___
+
+##### Tool: [cryptolyzer](https://gitlab.com/coroner/cryptolyzer)
+
+###### Check the cryptographic setting of a generic TLS server
+
+```bash
+cryptolyze tls all www.example.com
+```
+
+###### Check the cryptographic setting of a oppotunistic TLS server
+
+```bash
+cryptolyze tls all smtp://mail.example.com:25
+```
+
+###### Check the cryptographic setting of an SSH server
+
+```bash
+cryptolyze ssh all gitlab.com
 ```
 
 ___
