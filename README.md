@@ -305,14 +305,14 @@ Only main chapters:
 ##### 🛃 Auditing Tools
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://www.ossec.net/"><b>ossec</b></a> - actively monitoring all aspects of system activity with file integrity monitoring.<br>
-&nbsp;&nbsp;🔸 <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing"><b>auditd</b></a> - provides a way to track security-relevant information on your system.<br>
-&nbsp;&nbsp;🔸 <a href="https://www.nongnu.org/tiger/"><b>Tiger</b></a> - is a security tool that can be use both as a security audit and intrusion detection system.<br>
-&nbsp;&nbsp;🔸 <a href="https://cisofy.com/lynis/"><b>Lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/hasherezade/pe-sieve"><b>PE-sieve</b></a> - is a light-weight tool that helps to detect malware running on the system.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite"><b>PEASS</b></a> - privilege escalation tools for Windows and Linux/Unix and MacOS.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.ossec.net/"><b>ossec</b></a> - actively monitoring all aspects of system activity with file integrity monitoring.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing"><b>auditd</b></a> - provides a way to track security-relevant information on your system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.nongnu.org/tiger/"><b>Tiger</b></a> - is a security tool that can be use both as a security audit and intrusion detection system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cisofy.com/lynis/"><b>Lynis</b></a> - battle-tested security tool for systems running Linux, macOS, or Unix-based operating system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rebootuser/LinEnum"><b>LinEnum</b></a> - scripted Local Linux Enumeration & Privilege Escalation Checks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/installation/rkhunter"><b>Rkhunter</b></a> - scanner tool for Linux systems that scans backdoors, rootkits and local exploits on your systems.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hasherezade/pe-sieve"><b>PE-sieve</b></a> - is a light-weight tool that helps to detect malware running on the system.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/maldevel/PenTestKit"><b>PenTestKit</b></a> - is a repository with a great variety of scripts to audit systems, networks, web pages and more.<br>
 </p>
 
 ##### 🧑‍⚕️ System Diagnostics/Debuggers
