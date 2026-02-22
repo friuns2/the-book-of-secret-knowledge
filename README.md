@@ -858,7 +858,12 @@ performance of any of your sites from across the globe.<br>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### ▪️ Shell/Command line
+##### ▪ Universal
+<p>
+  &nbsp;&nbsp;:small_orange_diamond: <a hrer="https://devhints.io/"><b>devhints.io</b></a> - is a collection of modest cheatsheets almost about everythin in one tab.
+</p>
+
+##### :black_small_square: Shell/Command line
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://github.com/dylanaraps/pure-bash-bible"><b>pure-bash-bible</b></a> - is a collection of pure bash alternatives to external processes.<br>
