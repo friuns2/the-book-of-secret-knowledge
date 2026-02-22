@@ -387,16 +387,17 @@ Only main chapters:
 ##### ▪️ Other
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br>
-&nbsp;&nbsp;🔸 <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
-&nbsp;&nbsp;🔸 <a href="https://jonas.github.io/tig/"><b>Tig</b></a> - text-mode interface for Git.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a> - simplified and community-driven man pages.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/mholt/archiver"><b>archiver</b></a> - easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/skx/sysadmin-util"><b>sysadmin-util</b></a> - tools for Linux/Unix sysadmins.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://inotify.aiken.cz/"><b>incron</b></a> - is an inode-based filesystem notification technology.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/axkibe/lsyncd"><b>lsyncd</b></a> - synchronizes local directories with remote targets (Live Syncing Daemon).<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rgburke/grv"><b>GRV</b></a> - is a terminal based interface for viewing Git repositories.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://jonas.github.io/tig/"><b>Tig</b></a> - text-mode interface for Git.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tldr-pages/tldr"><b>tldr</b></a> - simplified and community-driven man pages.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/mholt/archiver"><b>archiver</b></a> - easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tj/commander.js"><b>commander.js</b></a> - minimal CLI creator in JavaScript.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/tomnomnom/gron"><b>gron</b></a> - make JSON greppable!<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/itchyny/bed"><b>bed</b></a> - binary editor written in Go.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jpmens/jo"><b>jo</b></a> - is a small utility to create JSON objects.<br>
 </p>
 
 #### GUI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
