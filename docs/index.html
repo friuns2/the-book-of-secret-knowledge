@@ -71,6 +71,9 @@
     table { width: 100%; border-collapse: collapse; }
     th, td { border: 1px solid var(--line); padding: 10px; text-align: left; }
     th { background: rgba(66,211,255,.12); }
+    .toc-list { margin: 0; padding-left: 18px; display: grid; gap: 8px; }
+    .toc-list a { color: var(--accent); text-decoration: none; }
+    .toc-list a:hover { text-decoration: underline; }
     .footer { color: var(--muted); margin: 22px 0 30px; text-align: center; }
     @media (max-width: 640px) {
       .wrap { padding: 16px; }
@@ -98,7 +101,17 @@
       </div>
     </section>
 
-    <section class="section">
+    <section id="table-of-contents" class="section">
+      <h2>Table of contents</h2>
+      <ol class="toc-list">
+        <li><a href="#what-this-includes">What this includes</a></li>
+        <li><a href="#architecture">Architecture</a></li>
+        <li><a href="#quick-start">Quick start</a></li>
+        <li><a href="#tech-stack">Tech stack</a></li>
+      </ol>
+    </section>
+
+    <section id="what-this-includes" class="section">
       <h2>What this includes</h2>
       <div class="grid">
         <article class="card"><strong>CLI and shell references</strong><br/>Fast command snippets and operational shortcuts.</article>
@@ -108,21 +121,21 @@
       </div>
     </section>
 
-    <section class="section">
+    <section id="architecture" class="section">
       <h2>Architecture</h2>
       <pre>[Community pull requests] --> [Curated README content] --> [GitHub repo + Pages site]
                  |                                           |
                  +---------- Maintenance workflow ------------+</pre>
     </section>
 
-    <section class="section">
+    <section id="quick-start" class="section">
       <h2>Quick start</h2>
       <pre>git clone https://github.com/friuns2/the-book-of-secret-knowledge.git
 cd the-book-of-secret-knowledge
 open README.md</pre>
     </section>
 
-    <section class="section">
+    <section id="tech-stack" class="section">
       <h2>Tech stack</h2>
       <table>
         <thead>
