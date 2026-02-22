@@ -1086,33 +1086,34 @@ performance of any of your sites from across the globe.<br>
 ##### 🐱‍💻 Security/Pentesting
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - a curated list of Web Security materials and resources.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/joe-shenouda/awesome-cyber-skills"><b>awesome-cyber-skills</b></a> - a curated list of hacking environments where you can train your cyber skills.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/devsecops/awesome-devsecops"><b>awesome-devsecops</b></a> - an authoritative list of awesome devsecops tools.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/jivoi/awesome-osint"><b>awesome-osint</b></a> - is a curated list of amazingly awesome OSINT.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/HolyBugx/HolyTips"><b>HolyTips</b></a> - tips and tutorials on Bug Bounty Hunting and Web App Security.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a> - a curated list of Awesome Threat Intelligence resources.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a> - a collection of open source and commercial tools that aid in red team operations.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/yeahhub/Hacking-Security-Ebooks"><b>Hacking-Security-Ebooks</b></a> - top 100 Hacking & Security E-Books.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a> - curated list of privacy respecting services and software.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/wtsxDev/reverse-engineering"><b>reverse-engineering</b></a> - list of awesome reverse engineering resources.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/michalmalik/linux-re-101"><b>linux-re-101</b></a> - a collection of resources for linux reverse engineering.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/onethawt/reverseengineering-reading-list"><b>reverseengineering-reading-list</b></a> - a list of Reverse Engineering articles, books, and papers.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/0xInfection/Awesome-WAF"><b>Awesome-WAF</b></a> - a curated list of awesome web-app firewall (WAF) stuff.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/danielmiessler/RobotsDisallowed"><b>RobotsDisallowed</b></a> - a curated list of the most common and most interesting robots.txt disallowed directories.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/Kayzaks/HackingNeuralNetworks"><b>HackingNeuralNetworks</b></a> - is a small course on exploiting and defending neural networks.<br>
-&nbsp;&nbsp;🔸 <a href="https://gist.github.com/joepie91/7e5cad8c0726fd6a5e90360a754fc568"><b>wildcard-certificates</b></a> - why you probably shouldn't use a wildcard certificate.<br>
-&nbsp;&nbsp;🔸 <a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29"><b>Don't use VPN services</b></a> -  which is what every third-party "VPN provider" does.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/InQuest/awesome-yara"><b>awesome-yara</b></a> - a curated list of awesome YARA rules, tools, and people.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a> - guide to securing and improving privacy on macOS.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a> - macOS Security Compliance Project.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/qazbnm456/awesome-web-security"><b>Awesome Web Security</b></a> - a curated list of Web Security materials and resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/joe-shenouda/awesome-cyber-skills"><b>awesome-cyber-skills</b></a> - a curated list of hacking environments where you can train your cyber skills.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/devsecops/awesome-devsecops"><b>awesome-devsecops</b></a> - an authoritative list of awesome devsecops tools.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jivoi/awesome-osint"><b>awesome-osint</b></a> - is a curated list of amazingly awesome OSINT.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/HolyBugx/HolyTips"><b>HolyTips</b></a> - tips and tutorials on Bug Bounty Hunting and Web App Security.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a> - a curated list of Awesome Threat Intelligence resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a> - a collection of open source and commercial tools that aid in red team operations.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yeahhub/Hacking-Security-Ebooks"><b>Hacking-Security-Ebooks</b></a> - top 100 Hacking & Security E-Books.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a> - curated list of privacy respecting services and software.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/wtsxDev/reverse-engineering"><b>reverse-engineering</b></a> - list of awesome reverse engineering resources.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/michalmalik/linux-re-101"><b>linux-re-101</b></a> - a collection of resources for linux reverse engineering.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/onethawt/reverseengineering-reading-list"><b>reverseengineering-reading-list</b></a> - a list of Reverse Engineering articles, books, and papers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/0xInfection/Awesome-WAF"><b>Awesome-WAF</b></a> - a curated list of awesome web-app firewall (WAF) stuff.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>awesome-shodan-queries</b></a> - interesting, funny, and depressing search queries to plug into shodan.io.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danielmiessler/RobotsDisallowed"><b>RobotsDisallowed</b></a> - a curated list of the most common and most interesting robots.txt disallowed directories.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/Kayzaks/HackingNeuralNetworks"><b>HackingNeuralNetworks</b></a> - is a small course on exploiting and defending neural networks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/7e5cad8c0726fd6a5e90360a754fc568"><b>wildcard-certificates</b></a> - why you probably shouldn't use a wildcard certificate.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29"><b>Don't use VPN services</b></a> -  which is what every third-party "VPN provider" does.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/InQuest/awesome-yara"><b>awesome-yara</b></a> - a curated list of awesome YARA rules, tools, and people.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a> - guide to securing and improving privacy on macOS.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/usnistgov/macos_security"><b>macos_security</b></a> - macOS Security Compliance Project.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/crowdsecurity/crowdsec"><b>CrowdSec</b></a> - an open source crowdfunded IPS/IDS platform to protect your servers from attacks.<br>
 </p>
 
 ##### ▪️ Other
