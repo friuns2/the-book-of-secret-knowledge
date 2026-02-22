@@ -1206,6 +1206,7 @@ Cybercrime Investigations</b></a> - podcast by Geoff White about cybercrimes.<br
 &nbsp;&nbsp; <a href="https://darknetdiaries.com/"><b>Darknet Diaries</b></a> - true stories from the dark side of the Internet.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/playlist?list=PL423I_gHbWUXah3dmt_q_XNp0NlGAKjis"><b>OSINTCurious Webcasts</b></a> - is the investigative curiosity that helps people be successful in OSINT.<br>
 &nbsp;&nbsp; <a href="https://www.youtube.com/user/SecurityWeeklyTV"><b>Security Weekly</b></a> - the latest information security and hacking news.<br>
+&nbsp;&nbsp; <a href="https://darknetdiaries.com/"><b>Darknet diaries</b></a> - True stories from the dark side of the Internet<br>
 </p>
 
 ##### :black_small_square: Geeky Cybersecurity Video Blogs
