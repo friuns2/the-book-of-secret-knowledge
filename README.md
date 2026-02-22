@@ -411,7 +411,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://gnometerminator.blogspot.com/p/introduction.html"><b>Terminator</b></a> - is based on GNOME Terminal, useful features for sysadmins and other users.<br>
 &nbsp;&nbsp; <a href="https://sw.kovidgoyal.net/kitty/"><b>Kitty</b></a> - is a GPU based terminal emulator that supports smooth scrolling and images.<br>
 &nbsp;&nbsp; <a href="https://github.com/alacritty/alacritty"><b>Alacritty</b></a> - is a fast, cross-platform, OpenGL terminal emulator.<br>
-&nbsp;&nbsp; <a href="https://github.com/wezterm/wezterm"><b>Wezterm</b></a> - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust.<br>
+&nbsp;&nbsp; <a href="https://github.com/wez/wezterm"><b>Wezterm</b></a> - is a GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.<br>
+&nbsp;&nbsp; <a href="https://github.com/ghostty-org/ghostty"><b>Ghostty</b></a> - is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.<br>
 </p>
 
 ##### :black_small_square: Network
@@ -1752,6 +1753,8 @@ text :arrow_left: encoded
   * [certbot](#tool-certbot)
   * [network-other](#tool-network-other)
   * [git](#tool-git)
+  * [python](#tool-python)
+  * [erlang](#tool-erlang)
   * [awk](#tool-awk)
   * [sed](#tool-sed)
   * [grep](#tool-grep)
@@ -4082,6 +4085,16 @@ python -m base64 -e <<< "sample string"
 ```bash
 python -m base64 -d <<< "dGhpcyBpcyBlbmNvZGVkCg=="
 ```
+
+##### Tool: [erlang](https://www.erlang.org/)
+
+###### Static HTTP web server
+
+```bash
+erl -S httpd serve --port 8000 /path/to/serve
+```
+
+___
 
 ##### Tool: [awk](http://www.grymoire.com/Unix/Awk.html)
 
