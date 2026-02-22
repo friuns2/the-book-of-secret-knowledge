@@ -4461,4 +4461,4 @@ shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
 
-- Add quick cheat-sheet reference for contributors (via @ex1234)
+- Helpful cheat-sheet link (@ex1234)
