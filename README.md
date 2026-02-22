@@ -801,13 +801,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://github.com/digitalocean/netbox"><b>netbox</b></a> - IP address management (IPAM) and data center infrastructure management (DCIM) tool.<br>
 </p>
 
-##### 🔬 Labs
-
-<p>
-&nbsp;&nbsp;🔸 <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
-</p>
-
-##### ▪️ Other
+##### :black_small_square: Other
 
 <p>
 &nbsp;&nbsp;🔸 <a href="https://ee.lbl.gov/"><b>LBNL's Network Research Group</b></a> - home page of the Network Research Group (NRG).<br>
