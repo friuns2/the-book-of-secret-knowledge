@@ -601,8 +601,9 @@ Only main chapters:
 ##### ▪️ Performance
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
-&nbsp;&nbsp;🔸 <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.debugbear.com/test/website-speed"><b>DebugBear Speed Test</b></a> - test and optimize page load speed.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gtmetrix.com/"><b>GTmetrix</b></a> - analyze your site’s speed and make it faster.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://performance.sucuri.net/"><b>Sucuri loadtimetester</b></a> - test here the
 performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;🔸 <a href="https://tools.pingdom.com/"><b>Pingdom Tools</b></a> - analyze your site’s speed around the world.<br>
 &nbsp;&nbsp;🔸 <a href="https://pingme.io/"><b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
