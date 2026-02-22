@@ -996,40 +996,41 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Other
 
 <p>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://www.kegel.com/c10k.html"><b>The C10K problem</b></a> - it's time for web servers to handle ten thousand clients simultaneously, don't you think?<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"><b>How 1500 bytes became the MTU of the internet</b></a> - great story about the Maximum Transmission Unit.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a> - this great repository is focused on hash collisions exploitation.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a> - animation of the SHA-256 hash function in your terminal.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://sha256algorithm.com/"><b>sha256algorithm</b></a> - sha256 algorithm explained online step by step visually.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://labs.ripe.net/Members/cteusche/bgp-meets-cat"><b>BGP Meets Cat</b></a> - after 3072 hours of manipulating BGP, Job Snijders has succeeded in drawing a Nyancat.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/benjojo/bgp-battleships"><b>bgp-battleships</b></a> - playing battleships over BGP.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/alex/what-happens-when"><b>What happens when...</b></a> - you type google.com into your browser and press enter?<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/vasanthk/how-web-works"><b>how-web-works</b></a> - based on the 'What happens when...' repository.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/"><b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/"><b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/"><b>Gitlab melts down</b></a> - postmortem on the database outage of January 31 2017 with the lessons we learned.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - should help to estimate costs of certain operations in CPU clocks.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"><b>simple-computer</b></a> - great resource to understand how computers work under the hood.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.troyhunt.com/working-with-154-million-records-on/"><b>The story of "Have I been pwned?"</b></a> - working with 154 million records on Azure Table Storage.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - shows the 500 most powerful commercially available computer systems known to us.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker"><b>How to build a 8 GPU password cracker</b></a> - any "black magic" or hours of frustration like desktop components do.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://home.cern/science/computing"><b>CERN Data Centre</b></a> - 3D visualizations of the CERN computing environments (and more).<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers?<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://howhttps.works/"><b>howhttps.works</b></a> - how HTTPS works ...in a comic!<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://howdns.works/"><b>howdns.works</b></a> - a fun and colorful explanation of how DNS works.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://postgresqlco.nf/en/doc/param/"><b>POSTGRESQLCO.NF</b></a> - your postgresql.conf documentation and recommendations.<br>
+&nbsp;&nbsp; <a href="https://refactoring.guru/"><b>Refactoring.Guru</b></a> - a well designed website for guiding through refactoring and clean code principles.<br>
+&nbsp;&nbsp; <a href="https://bitvijays.github.io/LFC-VulnerableMachines.html"><b>CTF Series : Vulnerable Machines</b></a> - the steps below could be followed to find vulnerabilities and exploits.<br>
+&nbsp;&nbsp; <a href="https://github.com/manoelt/50M_CTF_Writeup"><b>50M_CTF_Writeup</b></a> - $50 million CTF from Hackerone - writeup.<br>
+&nbsp;&nbsp; <a href="https://github.com/j00ru/ctf-tasks"><b>ctf-tasks</b></a> - an archive of low-level CTF challenges developed over the years.<br>
+&nbsp;&nbsp; <a href="https://hshrzd.wordpress.com/how-to-start/"><b>How to start RE/malware analysis?</b></a> - collection of some hints and useful links for the beginners.<br>
+&nbsp;&nbsp; <a href="http://www.kegel.com/c10k.html"><b>The C10K problem</b></a> - it's time for web servers to handle ten thousand clients simultaneously, don't you think?<br>
+&nbsp;&nbsp; <a href="https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500"><b>How 1500 bytes became the MTU of the internet</b></a> - great story about the Maximum Transmission Unit.<br>
+&nbsp;&nbsp; <a href="http://poormansprofiler.org/"><b>poor man's profiler</b></a> - like dtrace's don't really provide methods to see what programs are blocking on.<br>
+&nbsp;&nbsp; <a href="https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"><b>HTTPS on Stack Overflow</b></a> - this is the story of a long journey regarding the implementation of SSL.<br>
+&nbsp;&nbsp; <a href="https://drawings.jvns.ca/"><b>Julia's Drawings</b></a> - some drawings about programming and unix world, zines about systems & debugging tools.<br>
+&nbsp;&nbsp; <a href="https://github.com/corkami/collisions"><b>Hash collisions</b></a> - this great repository is focused on hash collisions exploitation.<br>
+&nbsp;&nbsp; <a href="https://github.com/in3rsha/sha256-animation"><b>sha256-animation</b></a> - animation of the SHA-256 hash function in your terminal.<br>
+&nbsp;&nbsp; <a href="https://sha256algorithm.com/"><b>sha256algorithm</b></a> - sha256 algorithm explained online step by step visually.<br>
+&nbsp;&nbsp; <a href="https://labs.ripe.net/Members/cteusche/bgp-meets-cat"><b>BGP Meets Cat</b></a> - after 3072 hours of manipulating BGP, Job Snijders has succeeded in drawing a Nyancat.<br>
+&nbsp;&nbsp; <a href="https://github.com/benjojo/bgp-battleships"><b>bgp-battleships</b></a> - playing battleships over BGP.<br>
+&nbsp;&nbsp; <a href="https://github.com/alex/what-happens-when"><b>What happens when...</b></a> - you type google.com into your browser and press enter?<br>
+&nbsp;&nbsp; <a href="https://github.com/vasanthk/how-web-works"><b>how-web-works</b></a> - based on the 'What happens when...' repository.<br>
+&nbsp;&nbsp; <a href="https://robertheaton.com/2018/11/28/https-in-the-real-world/"><b>HTTPS in the real world</b></a> - great tutorial explain how HTTPS works in the real world.<br>
+&nbsp;&nbsp; <a href="https://about.gitlab.com/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/"><b>Gitlab and NFS bug</b></a> - how we spent two weeks hunting an NFS bug in the Linux kernel.<br>
+&nbsp;&nbsp; <a href="https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/"><b>Gitlab melts down</b></a> - postmortem on the database outage of January 31 2017 with the lessons we learned.<br>
+&nbsp;&nbsp; <a href="http://www.catb.org/esr/faqs/hacker-howto.html"><b>How To Become A Hacker</b></a> - if you want to be a hacker, keep reading.<br>
+&nbsp;&nbsp; <a href="http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/"><b>Operation Costs in CPU</b></a> - should help to estimate costs of certain operations in CPU clocks.<br>
+&nbsp;&nbsp; <a href="https://cstack.github.io/db_tutorial/"><b>Let's Build a Simple Database</b></a> - writing a sqlite clone from scratch in C.<br>
+&nbsp;&nbsp; <a href="https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/"><b>simple-computer</b></a> - great resource to understand how computers work under the hood.<br>
+&nbsp;&nbsp; <a href="https://www.troyhunt.com/working-with-154-million-records-on/"><b>The story of "Have I been pwned?"</b></a> - working with 154 million records on Azure Table Storage.<br>
+&nbsp;&nbsp; <a href="https://www.top500.org/"><b>TOP500 Supercomputers</b></a> - shows the 500 most powerful commercially available computer systems.<br>
+&nbsp;&nbsp; <a href="https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker"><b>How to build a 8 GPU password cracker</b></a> - hours of frustration like desktop components do.<br>
+&nbsp;&nbsp; <a href="https://home.cern/science/computing"><b>CERN Data Centre</b></a> - 3D visualizations of the CERN computing environments (and more).<br>
+&nbsp;&nbsp; <a href="http://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
+&nbsp;&nbsp; <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br>
+&nbsp;&nbsp; <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br>
+&nbsp;&nbsp; <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers?<br>
+&nbsp;&nbsp; <a href="https://howhttps.works/"><b>howhttps.works</b></a> - how HTTPS works ...in a comic!<br>
+&nbsp;&nbsp; <a href="https://howdns.works/"><b>howdns.works</b></a> - a fun and colorful explanation of how DNS works.<br>
+&nbsp;&nbsp; <a href="https://postgresqlco.nf/en/doc/param/"><b>POSTGRESQLCO.NF</b></a> - your postgresql.conf documentation and recommendations.<br>
 </p>
 
 #### Inspiring Lists &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
