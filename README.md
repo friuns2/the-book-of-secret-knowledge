@@ -362,6 +362,7 @@ Only main chapters:
 
 <p>
 &nbsp;&nbsp; <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br>
+&nbsp;&nbsp; <a href="https://github.com/remenoscodes/git-native-issue"><b>git-native-issue</b></a> - distributed issue tracking embedded in Git, using native objects and refs.<br>
 </p>
 
 ##### :black_small_square: Other
