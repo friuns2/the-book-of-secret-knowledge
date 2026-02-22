@@ -4476,5 +4476,14 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+## 🛠️ DevOps Examples
 
-- Helpful cheat-sheet link (@ex1234)
+This repository now includes hands-on DevOps examples using Docker and Jenkins!
+
+You can find them here: [`devops-examples/`](./devops-examples)
+
+### Included:
+- ✅ Dockerfile for containerization
+- ✅ Jenkinsfile for automated pipeline setup
+
+> These files demonstrate a simple DevOps workflow that can help you set up CI/CD pipelines for your own projects.
