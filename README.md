@@ -467,6 +467,8 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://browserleaks.com/"><b>Web Browser Security</b></a> - it's all about Web Browser fingerprinting.<br>
 &nbsp;&nbsp; <a href="https://www.howsmyssl.com/"><b>How's My SSL?</b></a> - help a web server developer learn what real world TLS clients were capable of.<br>
 &nbsp;&nbsp; <a href="https://suche.org/sslClientInfo"><b>sslClientInfo</b></a> - client test (incl TLSv1.3 information).<br>
+&nbsp;&nbsp; <a href="https://www.codeflash.ai/"><b>Codeflash<b/></a> - Ship Blazing-Fast Python Code — Every Time.
+
 </p>
 
 ##### :black_small_square: SSL/Security
