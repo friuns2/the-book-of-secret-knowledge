@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Book of Secret Knowledge</title>
+  <meta name="description" content="A curated knowledge vault of manuals, cheat sheets, one-liners, and tools for DevOps, security, and systems work." />
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121933;
+      --panel-2: #172145;
+      --text: #e8edff;
+      --muted: #9eb0e3;
+      --accent: #42d3ff;
+      --accent-2: #7ef29a;
+      --line: #2c396d;
+      --code: #0f1632;
+      --max: 1100px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 10% 20%, #1b2852 0%, transparent 40%),
+        radial-gradient(circle at 90% 10%, #133456 0%, transparent 35%),
+        linear-gradient(180deg, #070b19, var(--bg));
+      line-height: 1.6;
+    }
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 24px; }
+    .hero {
+      padding: 64px 24px 40px;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      background: linear-gradient(180deg, rgba(23,33,69,.95), rgba(18,25,51,.92));
+      box-shadow: 0 20px 60px rgba(0,0,0,.35);
+    }
+    h1 { margin: 0 0 8px; font-size: clamp(2rem, 6vw, 3.2rem); letter-spacing: .5px; }
+    .tagline { margin: 0 0 18px; color: var(--muted); max-width: 72ch; }
+    .badges { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0; }
+    .badges img { height: 28px; }
+    .cta { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 18px; }
+    .btn {
+      display: inline-block;
+      text-decoration: none;
+      color: var(--text);
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      padding: 10px 14px;
+      border-radius: 10px;
+      transition: .2s ease;
+    }
+    .btn:hover { transform: translateY(-1px); border-color: var(--accent); }
+    .btn.primary { background: linear-gradient(90deg, #1f5a83, #2f8ca9); border-color: #50b4d4; }
+
+    .section { margin-top: 30px; padding: 22px; border: 1px solid var(--line); border-radius: 16px; background: var(--panel); }
+    h2 { margin-top: 0; font-size: 1.35rem; }
+    .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+    .card { padding: 14px; border: 1px solid var(--line); border-radius: 12px; background: rgba(23,33,69,.55); }
+    pre {
+      margin: 0;
+      padding: 14px;
+      border-radius: 12px;
+      overflow: auto;
+      border: 1px solid var(--line);
+      background: var(--code);
+      color: #cce3ff;
+    }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid var(--line); padding: 10px; text-align: left; }
+    th { background: rgba(66,211,255,.12); }
+    .footer { color: var(--muted); margin: 22px 0 30px; text-align: center; }
+    @media (max-width: 640px) {
+      .wrap { padding: 16px; }
+      .hero { padding: 34px 16px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <h1>The Book of Secret Knowledge</h1>
+      <p class="tagline">A curated knowledge base of practical references for systems, DevOps, security, networking, shell workflows, and day-to-day engineering operations.</p>
+
+      <div class="badges">
+        <img src="https://img.shields.io/github/stars/friuns2/the-book-of-secret-knowledge?style=for-the-badge" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/friuns2/the-book-of-secret-knowledge?style=for-the-badge" alt="Forks" />
+        <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge" alt="License" />
+        <img src="https://img.shields.io/badge/status-maintained-blue?style=for-the-badge" alt="Status" />
+      </div>
+
+      <div class="cta">
+        <a class="btn primary" href="https://github.com/friuns2/the-book-of-secret-knowledge/blob/master/README.md">Open Main README</a>
+        <a class="btn" href="https://github.com/friuns2/the-book-of-secret-knowledge/blob/master/README.legacy.md">Open Legacy README</a>
+        <a class="btn" href="https://github.com/friuns2/the-book-of-secret-knowledge">Repository</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>What this includes</h2>
+      <div class="grid">
+        <article class="card"><strong>CLI and shell references</strong><br/>Fast command snippets and operational shortcuts.</article>
+        <article class="card"><strong>Security and hardening notes</strong><br/>Practical guidance, tools, and analysis links.</article>
+        <article class="card"><strong>DevOps operations workflows</strong><br/>Deployment, CI/CD, and reliability resources.</article>
+        <article class="card"><strong>Networking and diagnostics</strong><br/>Troubleshooting patterns and packet-level tooling.</article>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Architecture</h2>
+      <pre>[Community pull requests] --> [Curated README content] --> [GitHub repo + Pages site]
+                 |                                           |
+                 +---------- Maintenance workflow ------------+</pre>
+    </section>
+
+    <section class="section">
+      <h2>Quick start</h2>
+      <pre>git clone https://github.com/friuns2/the-book-of-secret-knowledge.git
+cd the-book-of-secret-knowledge
+open README.md</pre>
+    </section>
+
+    <section class="section">
+      <h2>Tech stack</h2>
+      <table>
+        <thead>
+          <tr><th>Layer</th><th>Choice</th><th>Reason</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Content</td><td>Markdown</td><td>Portable and easy to contribute to</td></tr>
+          <tr><td>Website</td><td>Static HTML + CSS</td><td>No build system required</td></tr>
+          <tr><td>Hosting</td><td>GitHub Pages</td><td>Native deployment from repository</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <p class="footer">Focused documentation for practical engineering tasks.</p>
+  </main>
+</body>
+</html>
