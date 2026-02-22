@@ -587,6 +587,7 @@ Only main chapters:
 ##### :black_small_square: Privacy
 
 <p>
+&nbsp;&nbsp; <a href="https://exifeditor.io/"><b>EXIF Editor</b></a> - Quickly check image metadata, edit/scrub and analyse in bulk. In-browser, no uploads.<br>
 &nbsp;&nbsp; <a href="https://www.privacyguides.org/"><b>privacyguides.org</b></a> - provides knowledge and tools to protect your privacy against global mass surveillance.<br>
 &nbsp;&nbsp; <a href="https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Test+Servers"><b>DNS Privacy Test Servers</b></a> - DNS privacy recursive servers list (with a 'no logging' policy).<br>
 </p>
