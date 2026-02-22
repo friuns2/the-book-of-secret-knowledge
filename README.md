@@ -324,7 +324,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/gperftools/gperftools"><b>gperftools</b></a> - high-performance multi-threaded malloc() implementation, plus some performance analysis tools.<br>
 &nbsp;&nbsp; <a href="https://nicolargo.github.io/glances/"><b>glances</b></a> - cross-platform system monitoring tool written in Python.<br>
 &nbsp;&nbsp; <a href="https://github.com/hishamhm/htop"><b>htop</b></a> - interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.<br>
-&nbsp;&nbsp; <a href="https://github.com/aristocratos/bashtop"><b>bashtop</b></a> - Linux resource monitor written in pure Bash.<br>
+&nbsp;&nbsp; <a href="https://github.com/aristocratos/btop"><b>btop</b></a> - Linux resource monitor written in C++.<br>
 &nbsp;&nbsp; <a href="http://nmon.sourceforge.net/pmwiki.php"><b>nmon</b></a> - a single executable for performance monitoring and data analysis.<br>
 &nbsp;&nbsp; <a href="https://www.atoptool.nl/"><b>atop</b></a> - ASCII performance monitor. Includes statistics for CPU, memory, disk, swap, network, and processes.<br>
 &nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Lsof"><b>lsof</b></a> - displays in its output information about files that are opened by processes.<br>
@@ -612,7 +612,7 @@ Only main chapters:
 performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://tools.pingdom.com/"><b>Pingdom Tools</b></a> - analyze your site’s speed around the world.<br>
 &nbsp;&nbsp; <a href="https://pingme.io/"><b>PingMe.io</b></a> - run website latency tests across multiple geographic regions.<br>
-&nbsp;&nbsp; <a href="https://developers.google.com/speed/pagespeed/insights/"><b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
+&nbsp;&nbsp; <a href="https://pagespeed.web.dev/"><b>PageSpeed Insights</b></a> - analyze your site’s speed and make it faster.<br>
 &nbsp;&nbsp; <a href="https://web.dev/"><b>web.dev</b></a> - helps developers like you learn and apply the web's modern capabilities to your own sites and apps.<br>
 &nbsp;&nbsp; <a href="https://github.com/GoogleChrome/lighthouse"><b>Lighthouse</b></a> - automated auditing, performance metrics, and best practices for the web.<br>
 </p>
@@ -1104,6 +1104,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
 &nbsp;&nbsp; <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br>
 &nbsp;&nbsp; <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
+&nbsp;&nbsp; <a href="https://github.com/coreruleset/coreruleset"><b>OWASP CRS </b></a> - CoreRuleset: generic attack detection rules for use with ModSecurity.<br>
+&nbsp;&nbsp; <a href="https://github.com/pfsense/pfsense"><b>PfSense</b></a> - Firewall distribution, based on FreeBSD.<br>
 </p>
 
 ##### :black_small_square: Other
