@@ -883,27 +883,27 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: \*nix & Network
 
 <p>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - linux and unix tutorials for new and seasoned sysadmin.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://www.omnisecu.com/index.php"><b>Omnisecu</b></a> - free Networking, System Administration and Security tutorials.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/cirosantilli/linux-cheat"><b>linux-cheat</b></a> - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/snori74/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://linuxguideandhints.com/"><b>Linux Guide and Hints</b></a> - tutorials on system administration in Fedora and CentOS.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/NanXiao/strace-little-book"><b>strace-little-book</b></a> - a little book which introduces strace.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a> - examples and hands-on labs for Linux tracing tools workshops.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.manning.com/books/http2-in-action"><b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"><b>Let's code a TCP/IP stack</b></a> - great stuff to learn network and system programming at a deeper level.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a> - how to improve NGINX performance, security and other important things.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://github.com/digitalocean/nginxconfig.io"><b>nginxconfig.io</b></a> - NGINX config generator on steroids.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/openssh"><b>openssh guideline</b></a> - is to help operational teams with the configuration of OpenSSH server and client.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://kb.isc.org/docs/using-this-knowledgebase"><b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br>
-&nbsp;&nbsp; :small_orange_diamond: <a href="https://packetlife.net/"><b>PacketLife.net</b></a> - a place to record notes while studying for Cisco's CCNP certification.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.cyberciti.biz/"><b>nixCraft</b></a> - linux and unix tutorials for new and seasoned sysadmin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.tecmint.com/"><b>TecMint</b></a> - the ideal Linux blog for Sysadmins & Geeks.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.omnisecu.com/index.php"><b>Omnisecu</b></a> - free Networking, System Administration and Security tutorials.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/cirosantilli/linux-cheat"><b>linux-cheat</b></a> - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/livialima/linuxupskillchallenge"><b>linuxupskillchallenge</b></a> - learn the skills required to sysadmin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://cb.vu/unixtoolbox.xhtml"><b>Unix Toolbox</b></a> - Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://linux-kernel-labs.github.io/refs/heads/master/index.html"><b>Linux Kernel Teaching</b></a> - is a collection of lectures and labs Linux kernel topics.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://peteris.rocks/blog/htop/"><b>htop explained</b></a> - explanation of everything you can see in htop/top on Linux.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://linuxguideandhints.com/"><b>Linux Guide and Hints</b></a> - tutorials on system administration in Fedora and CentOS.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/NanXiao/strace-little-book"><b>strace-little-book</b></a> - a little book which introduces strace.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/goldshtn/linux-tracing-workshop"><b>linux-tracing-workshop</b></a> - examples and hands-on labs for Linux tracing tools workshops.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http2-explained"><b>http2-explained</b></a> - a detailed document explaining and documenting HTTP/2.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bagder/http3-explained"><b>http3-explained</b></a> - a document describing the HTTP/3 and QUIC protocols.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.manning.com/books/http2-in-action"><b>HTTP/2 in Action</b></a> - an excellent introduction to the new HTTP/2 standard.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"><b>Let's code a TCP/IP stack</b></a> - great stuff to learn network and system programming at a deeper level.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/nginx-admins-handbook"><b>Nginx Admin's Handbook</b></a> - how to improve NGINX performance, security and other important things.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/digitalocean/nginxconfig.io"><b>nginxconfig.io</b></a> - NGINX config generator on steroids.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://infosec.mozilla.org/guidelines/openssh"><b>openssh guideline</b></a> - is to help operational teams with the configuration of OpenSSH server and client.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://gravitational.com/blog/ssh-handshake-explained/"><b>SSH Handshake Explained</b></a> - is a relatively brief description of the SSH handshake.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://kb.isc.org/docs/using-this-knowledgebase"><b>ISC's Knowledgebase</b></a> - you'll find some general information about BIND 9, ISC DHCP, and Kea DHCP.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://packetlife.net/"><b>PacketLife.net</b></a> - a place to record notes while studying for Cisco's CCNP certification.<br>
 </p>
 
 ##### :black_small_square: Microsoft
