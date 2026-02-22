@@ -380,6 +380,12 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://github.com/remenoscodes/git-native-issue"><b>git-native-issue</b></a> - distributed issue tracking embedded in Git, using native objects and refs.<br>
 </p>
 
+##### :black_small_square: Mindfulness
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/e6a5/zenta"><b>zenta</b></a> - a minimal CLI tool to pause, breathe, and protect your attention. <br>
+</p>
+
 ##### :black_small_square: Other
 
 <p>
