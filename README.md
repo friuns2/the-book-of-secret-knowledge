@@ -847,14 +847,16 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/yeasy/docker_practice"><b>docker_practice(Chinese)</b></a> - learn and understand Docker technologies, with real DevOps practice!<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/labs"><b>labs
 </b></a> - is a collection of tutorials for learning how to use Docker with various tools.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/jessfraz/dockerfiles"><b>dockerfiles</b></a> - various Dockerfiles I use on the desktop and on servers.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way"><b>kubernetes-the-hard-way</b></a> - bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/jamesward/kubernetes-the-easy-way"><b>kubernetes-the-easy-way</b></a> - bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/dennyzhang/cheatsheet-kubernetes-A4"><b>cheatsheet-kubernetes-A4</b></a> - Kubernetes CheatSheets in A4.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/kabachook/k8s-security"><b>k8s-security</b></a> - kubernetes security notes and best practices.<br>
-&nbsp;&nbsp;🔸 <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br>
-&nbsp;&nbsp;🔸 <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jessfraz/dockerfiles"><b>dockerfiles</b></a> - various Dockerfiles I use on the desktop and on servers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way"><b>kubernetes-the-hard-way</b></a> - bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jamesward/kubernetes-the-easy-way"><b>kubernetes-the-easy-way</b></a> - bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/dennyzhang/cheatsheet-kubernetes-A4"><b>cheatsheet-kubernetes-A4</b></a> - Kubernetes CheatSheets in A4.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/kabachook/k8s-security"><b>k8s-security</b></a> - kubernetes security notes and best practices.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://learnk8s.io/production-best-practices/"><b>kubernetes-production-best-practices</b></a> - checklists with best-practices for production-ready Kubernetes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/freach/kubernetes-security-best-practice"><b>kubernetes-production-best-practices</b></a> - kubernetes security - best practice guide.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/hjacobs/kubernetes-failure-stories"><b>kubernetes-failure-stories</b></a> - is a compilation of public failure/horror stories related to Kubernetes.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacelift.io/blog/kubernetes-cheat-sheet"><b>kubernetes-cheat-sheet</b></a> - Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://spacelift.io/blog/kubernetes-best-practices"><b>kubernetes-best-practices</b></a> - 15 Kubernetes Best Practices Every Developer Should Know.<br>
 </p>
 
 #### Manuals/Howtos/Tutorials &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
