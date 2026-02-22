@@ -541,12 +541,13 @@ Only main chapters:
 ##### 📧 Mail
 
 <p>
-&nbsp;&nbsp;🔸 <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br>
-&nbsp;&nbsp;🔸 <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
-&nbsp;&nbsp;🔸 <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br>
-&nbsp;&nbsp;🔸 <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
-&nbsp;&nbsp;🔸 <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
-&nbsp;&nbsp;🔸 <a href="https://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://luxsci.com/smtp-tls-checker"><b>smtp-tls-checker</b></a> - check an email domain for SMTP TLS support.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://mxtoolbox.com/SuperTool.aspx"><b>MX Toolbox</b></a> - all of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.checktls.com/index.html"><b>Secure Email</b></a> - complete email test tools for email technicians.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://aeroleads.com/"><b>Aeroleads</b></a> - find anyone's email address and build mailing lists for anyy purpose.<br>
 </p>
 
 ##### ▪️ Encoders/Decoders and Regex testing
